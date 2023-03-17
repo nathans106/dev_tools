@@ -1,5 +1,7 @@
 # Nathan Samra's recommended dev tools
 
+Nathan Samra's recommended dev tools and resources.
+
 ## Editors
 
 ### Text editors
