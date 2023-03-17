@@ -59,3 +59,7 @@
 1. [Qt](https://www.qt.io/)
 2. [OpenCV](https://opencv.org/)
 
+## Utilities
+
+1. [Git Bash](https://gitforwindows.org/)
+2. [Rapid Environment Editor](https://www.rapidee.com/en/about)
