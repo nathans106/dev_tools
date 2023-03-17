@@ -16,6 +16,8 @@ Nathan Samra's recommended dev tools and resources.
 4. [PyCharm](https://www.jetbrains.com/pycharm/)
 5. [CLion](https://www.jetbrains.com/clion/)
 
+---
+
 ## [Git](https://git-scm.com/)
 
 ### GUIs
@@ -38,6 +40,8 @@ Nathan Samra's recommended dev tools and resources.
 7. [flutter-format](https://github.com/Cretezy/flutter-format-pre-commit)
 8. [ripsecrets](https://github.com/sirwart/ripsecrets)
 
+---
+
 ## Learning
 
 ### Books
@@ -54,12 +58,16 @@ Nathan Samra's recommended dev tools and resources.
 
 1. [Advent of Code](https://adventofcode.com/)
 
+---
+
 ## Libraries
 
 ### C++
 
 1. [Qt](https://www.qt.io/)
 2. [OpenCV](https://opencv.org/)
+
+---
 
 ## Utilities
 
