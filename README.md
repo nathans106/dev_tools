@@ -36,3 +36,18 @@
 7. [flutter-format](https://github.com/Cretezy/flutter-format-pre-commit)
 8. [ripsecrets](https://github.com/sirwart/ripsecrets)
 
+## Learning
+
+### Books
+
+1. [The Pragmatic Programmer, 20th Anniversary Edition](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - David Thomas & Andrew Hunt
+2. [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) - Robert C. Martin
+
+### Online
+
+1. [Refactoring Guru](https://refactoring.guru/)
+2. [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+
+### Practice
+
+1. [Advent of Code](https://adventofcode.com/)
