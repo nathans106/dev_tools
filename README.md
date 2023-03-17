@@ -51,3 +51,11 @@
 ### Practice
 
 1. [Advent of Code](https://adventofcode.com/)
+
+## Libraries
+
+### C++
+
+1. [Qt](https://www.qt.io/)
+2. [OpenCV](https://opencv.org/)
+
