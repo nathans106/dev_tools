@@ -63,5 +63,6 @@ Nathan Samra's recommended dev tools and resources.
 
 ## Utilities
 
-1. [Git Bash](https://gitforwindows.org/)
-2. [Rapid Environment Editor](https://www.rapidee.com/en/about)
+1. [Doer](https://github.com/NathanSamra/doer)
+2. [Git Bash](https://gitforwindows.org/)
+3. [Rapid Environment Editor](https://www.rapidee.com/en/about)
