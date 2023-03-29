@@ -73,6 +73,7 @@ Nathan Samra's recommended dev tools and resources.
 
 1. [Markdown](https://github.github.com/gfm/)
 2. [Pandoc](https://pandoc.org/)
+   1. Take the markdown title as the actual title with `--shift-heading-level-by=-1`
 
 ---
 
