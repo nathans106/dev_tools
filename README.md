@@ -69,6 +69,13 @@ Nathan Samra's recommended dev tools and resources.
 
 ---
 
+## Writing
+
+1. [Markdown](https://github.github.com/gfm/)
+2. [Pandoc](https://pandoc.org/)
+
+---
+
 ## Utilities
 
 1. [Doer](https://github.com/NathanSamra/doer)
